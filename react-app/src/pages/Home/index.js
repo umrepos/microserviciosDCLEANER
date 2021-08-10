@@ -35,10 +35,16 @@ export default function Home() {
   return (
     <div className={classes.root}>
       <Paper className={classes.paper}>
-        <Typography variant="h5">Welcome to the Fancy Store!</Typography>
+        <Typography variant="h5">DCleaner principal proveedor de servicios e insumos sanitizantes y de protección a la salud
+de la zona sur de México</Typography>
         <br />
         <Typography variant="body1">
-          Take a look at our wide variety of products.
+          SALUD E INNOVACIÓN
+Desde hace más de 40 años mantenemos el compromiso de ofrecer el más alto nivel de servicio y productos de calidad a nuestros clientes.
+
+Nuestro catálogo de más de 800 páginas es fácil de usar y contiene más de 38,500 productos de empaque, envío, productos industriales y de limpieza y mantenimiento, listos para enviar hoy mismo.
+
+Los productos de la marca DCleaner combinan la mejor calidad con el mejor precio. Nuestro equipo de compradores busca los productos más finos disponibles a precios competitivos.
         </Typography>
       </Paper>
     </div>
