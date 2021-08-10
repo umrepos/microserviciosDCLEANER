@@ -34,13 +34,16 @@ export default function Home() {
     <div className={classes.root}>
       <Paper className={classes.paper}>
         <Typography variant="h5">
-          Fancy Fashion &amp; Style Online
+          DCleaner &amp; Style Online
         </Typography>
         <br />
         <Typography variant="body1">
-          Tired of mainstream fashion ideas, popular trends and societal norms?
-          This line of lifestyle products will help you catch up with the Fancy trend and express your personal style.
-          Start shopping Fancy items now!
+          SALUD E INNOVACIÓN
+Desde hace más de 40 años mantenemos el compromiso de ofrecer el más alto nivel de servicio y productos de calidad a nuestros clientes.
+
+Nuestro catálogo de más de 800 páginas es fácil de usar y contiene más de 38,500 productos de empaque, envío, productos industriales y de limpieza y mantenimiento, listos para enviar hoy mismo.
+
+Los productos de la marca DCleaner combinan la mejor calidad con el mejor precio. Nuestro equipo de compradores busca los productos más finos disponibles a precios competitivos.
         </Typography>
       </Paper>
     </div>
